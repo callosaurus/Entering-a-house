@@ -13,6 +13,21 @@
 		3FB1375C1E55742400989426 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB1375A1E55742400989426 /* Main.storyboard */; };
 		3FB1375E1E55742400989426 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB1375D1E55742400989426 /* Assets.xcassets */; };
 		3FB137611E55742400989426 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB1375F1E55742400989426 /* LaunchScreen.storyboard */; };
+		3FB137EB1E5575EC00989426 /* back_porch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137DC1E5575EC00989426 /* back_porch.jpg */; };
+		3FB137EC1E5575EC00989426 /* bathroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137DD1E5575EC00989426 /* bathroom.jpg */; };
+		3FB137ED1E5575EC00989426 /* bedroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137DE1E5575EC00989426 /* bedroom.jpg */; };
+		3FB137EE1E5575EC00989426 /* coat_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137DF1E5575EC00989426 /* coat_room.jpg */; };
+		3FB137EF1E5575EC00989426 /* cursed_chalice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E01E5575EC00989426 /* cursed_chalice.jpg */; };
+		3FB137F01E5575EC00989426 /* dining_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E11E5575EC00989426 /* dining_room.jpg */; };
+		3FB137F11E5575EC00989426 /* dungeon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E21E5575EC00989426 /* dungeon.jpg */; };
+		3FB137F21E5575EC00989426 /* front_door.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E31E5575EC00989426 /* front_door.jpg */; };
+		3FB137F31E5575EC00989426 /* generator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E41E5575EC00989426 /* generator.jpg */; };
+		3FB137F41E5575EC00989426 /* kitchen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E51E5575EC00989426 /* kitchen.jpg */; };
+		3FB137F51E5575EC00989426 /* labratory.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E61E5575EC00989426 /* labratory.jpg */; };
+		3FB137F61E5575EC00989426 /* library.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E71E5575EC00989426 /* library.jpg */; };
+		3FB137F71E5575EC00989426 /* mysterious_lake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E81E5575EC00989426 /* mysterious_lake.jpg */; };
+		3FB137F81E5575EC00989426 /* secret_passage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137E91E5575EC00989426 /* secret_passage.jpg */; };
+		3FB137F91E5575EC00989426 /* stairs_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FB137EA1E5575EC00989426 /* stairs_up.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +41,21 @@
 		3FB1375D1E55742400989426 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FB137601E55742400989426 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FB137621E55742400989426 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FB137DC1E5575EC00989426 /* back_porch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back_porch.jpg; sourceTree = "<group>"; };
+		3FB137DD1E5575EC00989426 /* bathroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bathroom.jpg; sourceTree = "<group>"; };
+		3FB137DE1E5575EC00989426 /* bedroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bedroom.jpg; sourceTree = "<group>"; };
+		3FB137DF1E5575EC00989426 /* coat_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coat_room.jpg; sourceTree = "<group>"; };
+		3FB137E01E5575EC00989426 /* cursed_chalice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cursed_chalice.jpg; sourceTree = "<group>"; };
+		3FB137E11E5575EC00989426 /* dining_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dining_room.jpg; sourceTree = "<group>"; };
+		3FB137E21E5575EC00989426 /* dungeon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dungeon.jpg; sourceTree = "<group>"; };
+		3FB137E31E5575EC00989426 /* front_door.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = front_door.jpg; sourceTree = "<group>"; };
+		3FB137E41E5575EC00989426 /* generator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = generator.jpg; sourceTree = "<group>"; };
+		3FB137E51E5575EC00989426 /* kitchen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitchen.jpg; sourceTree = "<group>"; };
+		3FB137E61E5575EC00989426 /* labratory.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = labratory.jpg; sourceTree = "<group>"; };
+		3FB137E71E5575EC00989426 /* library.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = library.jpg; sourceTree = "<group>"; };
+		3FB137E81E5575EC00989426 /* mysterious_lake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mysterious_lake.jpg; sourceTree = "<group>"; };
+		3FB137E91E5575EC00989426 /* secret_passage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret_passage.jpg; sourceTree = "<group>"; };
+		3FB137EA1E5575EC00989426 /* stairs_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stairs_up.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +96,7 @@
 				3FB1375D1E55742400989426 /* Assets.xcassets */,
 				3FB1375F1E55742400989426 /* LaunchScreen.storyboard */,
 				3FB137621E55742400989426 /* Info.plist */,
+				3FB137DB1E5575EC00989426 /* images */,
 				3FB137511E55742400989426 /* Supporting Files */,
 			);
 			path = "Entering a House";
@@ -77,6 +108,28 @@
 				3FB137521E55742400989426 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3FB137DB1E5575EC00989426 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3FB137DC1E5575EC00989426 /* back_porch.jpg */,
+				3FB137DD1E5575EC00989426 /* bathroom.jpg */,
+				3FB137DE1E5575EC00989426 /* bedroom.jpg */,
+				3FB137DF1E5575EC00989426 /* coat_room.jpg */,
+				3FB137E01E5575EC00989426 /* cursed_chalice.jpg */,
+				3FB137E11E5575EC00989426 /* dining_room.jpg */,
+				3FB137E21E5575EC00989426 /* dungeon.jpg */,
+				3FB137E31E5575EC00989426 /* front_door.jpg */,
+				3FB137E41E5575EC00989426 /* generator.jpg */,
+				3FB137E51E5575EC00989426 /* kitchen.jpg */,
+				3FB137E61E5575EC00989426 /* labratory.jpg */,
+				3FB137E71E5575EC00989426 /* library.jpg */,
+				3FB137E81E5575EC00989426 /* mysterious_lake.jpg */,
+				3FB137E91E5575EC00989426 /* secret_passage.jpg */,
+				3FB137EA1E5575EC00989426 /* stairs_up.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +190,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FB137F91E5575EC00989426 /* stairs_up.jpg in Resources */,
 				3FB137611E55742400989426 /* LaunchScreen.storyboard in Resources */,
+				3FB137EB1E5575EC00989426 /* back_porch.jpg in Resources */,
+				3FB137F71E5575EC00989426 /* mysterious_lake.jpg in Resources */,
 				3FB1375E1E55742400989426 /* Assets.xcassets in Resources */,
 				3FB1375C1E55742400989426 /* Main.storyboard in Resources */,
+				3FB137F01E5575EC00989426 /* dining_room.jpg in Resources */,
+				3FB137F41E5575EC00989426 /* kitchen.jpg in Resources */,
+				3FB137ED1E5575EC00989426 /* bedroom.jpg in Resources */,
+				3FB137EE1E5575EC00989426 /* coat_room.jpg in Resources */,
+				3FB137F51E5575EC00989426 /* labratory.jpg in Resources */,
+				3FB137EC1E5575EC00989426 /* bathroom.jpg in Resources */,
+				3FB137F61E5575EC00989426 /* library.jpg in Resources */,
+				3FB137F11E5575EC00989426 /* dungeon.jpg in Resources */,
+				3FB137EF1E5575EC00989426 /* cursed_chalice.jpg in Resources */,
+				3FB137F21E5575EC00989426 /* front_door.jpg in Resources */,
+				3FB137F81E5575EC00989426 /* secret_passage.jpg in Resources */,
+				3FB137F31E5575EC00989426 /* generator.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

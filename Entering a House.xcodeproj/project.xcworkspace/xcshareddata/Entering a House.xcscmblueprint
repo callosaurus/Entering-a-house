@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD4F627346219FEAF4CE8A38BE76B8AF73404307",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD4F627346219FEAF4CE8A38BE76B8AF73404307" : 9223372036854775807,
+    "45D4D8A5CA17C5D1B8DB0A549D4C873BB99C3DA8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8373D106-5728-45DD-9C74-1CCDFB636FA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD4F627346219FEAF4CE8A38BE76B8AF73404307" : "Entering%20a%20House\/",
+    "45D4D8A5CA17C5D1B8DB0A549D4C873BB99C3DA8" : "Entering%20a%20House\/Entering%20a%20House\/xcode-themes\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Entering a House",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Entering a House.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hdoria\/xcode-themes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45D4D8A5CA17C5D1B8DB0A549D4C873BB99C3DA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/callosaurus\/Entering-a-house.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD4F627346219FEAF4CE8A38BE76B8AF73404307"
+    }
+  ]
+}
